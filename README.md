@@ -111,7 +111,7 @@ New features, design improvements and workflow upgrades are being added regularl
 
 Found a bug or have feedback?
 
-Visit [studioplug.app](https://studioplug.app) or contact the StudioPlug team.
+Visit [studioplug.app](https://studioplug.app) or contact me at contact@studioplug.app
 
 ---
 
